@@ -1,0 +1,53 @@
+.aa{
+    width: 70%;
+    float: left;
+}
+.d1{
+    background-color: #D6AD60;
+}
+.B-Chat{
+    
+    height: 32em;
+    width: 30em;
+    box-shadow: 0 0 10px 10px #B68D40;
+    border-radius: 10px;
+    background-color: #D6AD60;
+}
+#Dr{
+    background-color: darkgray;
+}
+#x{
+    font-size: xx-large;
+    text-align: center;
+    color: #122620;
+    width: 100%;
+    padding-top: 15px;
+}
+#chat{
+    overflow: scroll;
+    height: 22em;
+    width: 28em;
+    background-color: white;
+    margin: 10px;
+    border-radius: 10px;
+}
+table{
+    height: 100%;
+}
+input[type="text"],select{
+    width: 18em;
+    height: 40px;
+    border-radius: 10px;
+    font-size: large;
+    margin: 15px;
+}
+#s1{
+    font-size: xx-large;
+    padding-left: 20px;
+}
+input[type="Submit"]{
+    width: 5em;
+    height: 40px;
+    border-radius: 10px;
+    font-size: large;
+}

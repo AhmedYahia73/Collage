@@ -1,0 +1,33 @@
+.aa{
+    width: 70%;
+    float: left;
+}
+.c{
+    background-color: #D6AD60;
+}
+.st1{
+background-color: #B68D40;
+padding: 15px;
+font-size: large;
+}
+select{
+    font-size: large;
+    width: 300px;
+    height: 35px;
+    margin: 10px;
+}
+input[type="text"]{
+    font-size: large;
+    width: 300px;
+    height: 35px;
+    border-radius: 7px;
+    margin: 10px;
+}
+button{
+    font-size: large;
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+    background-color: #122620;
+    color: #F4EBD0;
+}

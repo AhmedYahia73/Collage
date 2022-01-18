@@ -1,0 +1,61 @@
+<html>
+    <head>
+        <title>Technical News</title>
+        <link rel="stylesheet" href="style/filecss.css">
+        <link rel="stylesheet" href="style/news1.css">
+    </head>
+    <body>
+        <div id="headerr">
+            <img class="imga" src="img/NH.PNG">
+            <h1>
+                This Center Offers Many Educational Services And Courses <br>In Various Fields With a Group of Best Instructors.
+            </h1>
+            <img class="imga" src="img/NH.PNG">
+        </div>
+        <div id="Title">
+            Ahmed Osma
+        </div>
+        <div id="header">
+            <marquee class="mar">
+                Welcome in my website
+            </marquee>
+        </div>
+        <div id="menu">
+            <ul>
+            <a href="Technical News.html">    <li class="a">Technical News</li></a>
+            <a href="My Profile.html">  <li class="b">My Profile</li></a>
+            <a href="Courses.html"> <li class="c">Courses</li></a>
+            <a href="Time Table.html">   <li class="d">Time Table</li></a>
+            <a href="Chat.html">   <li class="d1">Chat</li></a>
+            <a href="Student.html">    <li class="e">Student</li></a>
+            <a href="Attendance.html">    <li class="g">Attendance</li></a>
+            <a href="Exam.html">    <li class="h">Exam</li></a>
+            <a href="notifications.html">    <li class="i">notifications</li></a>
+            <a href="login.html">    <li class="j">Log Out</li></a>
+            </ul>
+        </div>
+        <div class="aa">
+            <h1>Exploring the Strategy Behavioral Design Pattern in Node.js</h1>
+          <h2>  Types of Behavioral Design Patterns</h2>
+          <h4><ul><li> The Strategy pattern : allows us to extract the common parts of a family of closely related components into a component called the context and allows us to define strategy objects that the context can use to implement specific behaviors.<br>
+           </li><b><li> The State pattern : </b> is a variation of the Strategy pattern where the strategies are used to model the behavior of a component when under different states.<br>
+           <b> </li><li> Template pattern : </b> instead, can be considered the “static” version of the Strategy pattern, where the different specific behaviors are implemented as subclasses of the template class, which models the common parts of the algorithm.<br>
+           <b></li><li> The Iterator pattern : </b> provides us with a common interface to iterate over a collection. It has now become a core pattern in Node.js. JavaScript offers native support for the pattern (with the iterator and iterable protocols). Iterators can be used as an alternative to complex async iteration patterns and even to Node.js streams.<br>
+           <b></li><li>  The Middleware pattern : </b> allows us to define a modular chain of processing steps. This is a very distinctive pattern born from within the Node.js ecosystem. It can be used to preprocess and postprocess data and requests.<br>
+           <b> </li><li>The Command pattern : </b> materializes the information required to execute a routine, allowing such information to be easily transferred, stored, and processed.<br>
+        </ul> </h4>
+        <h2>
+        The Strategy Pattern</h2><h4>
+        The Strategy pattern enables an object, called the context, to support variations in its logic by extracting the variable parts into separate, interchangeable objects called strategies. The context implements the common logic of a family of algorithms, while a strategy implements the mutable parts, allowing the context to adapt its behavior depending on different factors, such as an input value, a system configuration, or user preferences.
+        <br>
+        Strategies are usually part of a family of solutions and all of them implement the same interface expected by the context. The following figure shows the situation we just described:
+        <br>
+        
+        Imagine a car; its tires can be considered its strategy for adapting to different road conditions. We can fit winter tires to go on snowy roads thanks to their studs, while we can decide to fit high-performance tires for traveling mainly on motorways for a long trip. On the one hand, we don’t want to change the entire car for this to be possible, and on the other, we don’t want a car with eight wheels so that it can go on every possible road.
+        <br>
+        The Strategy pattern is particularly useful in all those situations where supporting variations in the behavior of a component requires complex conditional logic (lots of if...else or switch statements) or mixing different components of the same family. Imagine an object called Order that represents an online order on an e-commerce website. The object has a method called pay() that, as it says, finalizes the order and transfers the funds from the user to the online store.  
+    </h4>  
+    <button class="btna"><- Back</button>
+ </div>
+    </body>
+</html>

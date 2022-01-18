@@ -1,0 +1,47 @@
+.aa{
+    width: 70%;
+    float: left;
+}
+.a{
+    background-color: #D6AD60;
+}
+.st1{
+    margin: 15px;
+    padding: 20px;
+    width: 15em;
+    height: 7em;
+    border-radius: 10px;
+    background-color: #B68D40;
+    float: left;
+    vertical-align: bottom;
+    font-size: 20px;
+}.st2{
+    margin: 15px;
+    padding: 20px;
+    width: 15em;
+    height: 7em;
+    border-radius: 10px;
+    background-color: #122620;
+    color: #F4EBD0;
+    float: left;
+    vertical-align: bottom;
+    font-size: 20px;
+}
+
+.income{
+    margin: 15px;
+    padding: 20px;
+    width: 15em;
+    height: 7em;
+    border-radius: 10px;
+    background-color: #D6AD60;
+    float: left;
+    vertical-align: bottom;
+    font-size: 20px;
+}
+.img1{
+    height: 100%;
+    width: 3em;
+    float: left;
+    margin-right: 10px;
+}

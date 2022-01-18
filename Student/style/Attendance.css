@@ -1,0 +1,26 @@
+.aa{
+    width: 70%;
+    float: left;
+}
+.g{
+    background-color: #D6AD60;
+}
+table{
+    font-size: large;
+    background-color: #F4EBD0;
+    float: left;
+    height: 20em;
+    margin: 5px;
+    border: 20px solid #122620;
+    border-collapse: collapse;
+    width: 100%;
+}
+td{
+    padding: 15px;
+    border: 5px solid #122620;
+}
+.ta{
+    background-color: #D6AD60;
+    width: 30%;
+    font-size: x-large;
+}

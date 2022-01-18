@@ -1,0 +1,64 @@
+.aa{
+    width: 70%;
+    float: left;
+}
+.i{
+    background-color: #D6AD60;
+}
+.s1{
+    font-size: large;
+    color: blue;
+    margin: 20px;
+}
+.p1{
+    font-size: large;
+    color: black;
+}
+.B-Chat{
+    
+    height: 100%;
+    width: 100%;
+    margin-left: 20px;
+    box-shadow:0 0 10px 10px #B68D40;
+    border-radius: 10px;
+    background-color: #D6AD60;
+}
+#x{
+    font-size: xx-large;
+    text-align: left;
+    color: #122620;
+    width: 100%;
+    margin: 0;
+    padding-left: 15px;
+}
+textarea{
+    width: 65%;
+    height: 15em;
+    font-size: large;
+}
+#xx{
+    height: 70%;
+}
+span{
+    vertical-align: 3em;
+}
+td{
+    padding-top: 20px;
+    vertical-align: top;
+}
+#chat{
+    overflow: scroll;
+    height: 100%;
+    width: 100%;
+    background-color: #F4EBD0;
+    border-radius: 10px;
+}
+table{
+    height: 100%;
+}
+input[type="Submit"]{
+    width: 5em;
+    height: 40px;
+    border-radius: 10px;
+    font-size: large;
+}

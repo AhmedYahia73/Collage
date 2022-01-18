@@ -1,0 +1,79 @@
+
+.aa{
+    width: 70%;
+    float: left;
+}
+.a{
+    background-color: #D6AD60;
+}
+.st1{
+    margin: 15px;
+    width: 400px;
+    height: 430px;
+    border-radius: 10px;
+    background-color: rgb(206, 206, 206);
+    float: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    vertical-align: bottom;
+    color: #122620;
+}
+.imgt{
+    width: 100%;
+    border-radius: 10px;
+    height: 300px;
+}
+div h2{
+    padding: 10px;
+}
+.st2{
+    margin: 15px;
+    width: 400px;
+    height: 430px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(206, 206, 206);
+    float: left;
+    vertical-align: bottom;
+    color:#122620;
+}.st3{
+    margin: 15px;
+    width: 400px;
+    height: 430px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(206, 206, 206);
+    float: left;
+    vertical-align: bottom;
+    color: #122620;
+}.income{
+    margin: 15px;
+    width: 400px;
+    height: 430px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(206, 206, 206);
+    float: left;
+    vertical-align: bottom;
+    color: #122620;
+}
+.st1:hover{
+    margin-top: 5px;
+}.st2:hover{
+    
+    margin-top: 5px;
+    margin-bottom: 25px;
+}.st3:hover{
+    margin-top: 5px;
+}.income:hover{
+   margin-top: 5px;
+}
+.img1{
+    height: 100%;
+    width: 3em;
+    float: left;
+    margin-right: 10px;
+}

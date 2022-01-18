@@ -1,0 +1,58 @@
+.aa{
+    float: left;
+    width: 70%;
+    margin: 10px;
+}
+.d{
+    background-color: #D6AD60;
+}
+#as{
+    width: 10em;
+}
+.st1{
+    padding-top: 5em;
+    font-size: large;
+    background-color: #F4EBD0;
+    border-collapse: collapse;
+    border:10px solid #122620 ;
+}
+.st1 td{
+    border:5px solid #122620 ;
+}
+.t2{
+    
+    padding-top: 2em;
+    font-size: large;
+    border:5px solid #122620 ;
+    border-radius: 10px;
+    background-color: #D6AD60;
+}
+.btn{
+    margin: 10px;
+    background-color: #D6AD60;
+    color: #122620;
+}
+#x{
+    font-size: x-large;
+    background-color: #D6AD60;
+}
+td{
+
+    padding: 10px;
+}
+select{
+    font-size: large;
+    width: 300px;
+    height: 30px;
+    }input{
+        font-size: large;
+        width: 300px;
+        height: 30px;
+        border-radius: 10px;
+        }
+        button{
+            background-color:  #122620;
+            color: #F4EBD0;
+        font-size: large;
+        width: 100px;
+        height: 40px;}
